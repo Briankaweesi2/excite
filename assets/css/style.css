@@ -418,7 +418,7 @@ button.scrollTopStick.active:before,
     background: transparent;
     border-left: 0 solid transparent;
     border-right: 30px solid transparent;
-    border-top: 65px solid #ffee02;
+    border-top: 65px solid #F6851F;
 }
 .desktop-nav .nav-bar .extras .theme-btn.simple:after {
     display: none;
@@ -553,7 +553,7 @@ textarea {
     position: absolute;
     bottom: 0;
     right: 0px;
-    border-top: 76px solid #ffee02;
+    border-top: 76px solid #F6851F;
     border-left: 0px solid #eee;
     border-right: 30px solid transparent;
     border-bottom: 0px solid #eee;
@@ -713,7 +713,7 @@ textarea {
     z-index: 9;
     bottom: 0;
     right: 0;
-    border-left: 40px solid #ffee02;
+    border-left: 40px solid #F6851F;
     border-right: 50px solid #d1676700;
     border-bottom: 60px solid #ffee0200;
     transform: rotate(180deg);
@@ -6658,7 +6658,7 @@ ul.pd-price li:not(:last-child){
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #ffee02;
+    border-top: 10px solid #F6851F;
     position: absolute;
     bottom: -13px;
     left: 50%;
